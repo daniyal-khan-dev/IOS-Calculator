@@ -51,7 +51,7 @@ A web-based clone of the Apple iOS Calculator, built with HTML, CSS, and JavaScr
 ## Author
 
 **Daniyal Khan**
-- Protfolio: https://daniyal-khan.com/
+- Portfolio: https://daniyal-khan.com/
 - GitHub: https://github.com/daniyal-khan-dev
 - LinkedIn: www.linkedin.com/in/m-daniyal-khan
 - Email: support@daniyal-khan.com
@@ -59,7 +59,7 @@ A web-based clone of the Apple iOS Calculator, built with HTML, CSS, and JavaScr
 ## Support
 
 If you have any questions or need help, please:
-- Open on Protfolio
+- Open on Portfolio
 - Open an issue on GitHub
 - Connect on LinkedIn
 - Contact via email
